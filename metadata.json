@@ -1,0 +1,6 @@
+{
+  "name": "MV Soluções | Empréstimos e Soluções Financeiras",
+  "description": "Assessoria e soluções em crédito pessoal, consignado e assessoria financeira com atendimento humanizado liderado por Ailton Jr.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
